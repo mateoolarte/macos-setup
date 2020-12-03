@@ -2,7 +2,7 @@
 
 Here you can find my OS config, prefs, apps and whatever I need to automate the workflow used on my pc. All of the configuration is based on macOS.
 
-## TODO
+## TODO
 
 -
 
