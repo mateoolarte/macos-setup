@@ -21,6 +21,8 @@ Note: Follow [this](https://earthly.dev/blog/homebrew-on-m1/) instructions for M
 
 With Homebrew comes `brew-cask` which will allow to install applications with the command line.
 
+Copy content from `.zshrc` in this repo
+
 Add this to my `./zshrc`
 
 ```sh
