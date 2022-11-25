@@ -15,15 +15,12 @@ xcode-select --install
 ### [Homebrew](https://brew.sh) - The Missing Package Manager for macOS
 
 ```sh
-$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+Note: Follow [this](https://earthly.dev/blog/homebrew-on-m1/) instructions for M1 Chip
+
 With Homebrew comes `brew-cask` which will allow to install applications with the command line.
 
-### ZSH - An alternative shell to Bash
-
-```sh
-brew install zsh
-```
 Add this to my `./zshrc`
 
 ```sh
@@ -33,13 +30,12 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 ## Apps
 
 - Authy Desktop
-- Backup and Sync from Google
+- Google Drive
 - Docker
 - Firefox
 - Flow
 - Google Chrome
 - ImageOptim
-- Kindle
 - Logi Options
 - OmniDiskSweeper
 - pgAdmin 4
@@ -50,6 +46,24 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 - The Unarchiver
 - Visual Studio Code
 - zoom.us
+
+https://sourabhbajaj.com/mac-setup/
+
+https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
+
+https://github.com/nvm-sh/nvm
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+https://github.com/tonsky/FiraCode/wiki/Installing
+
+https://www.nerdfonts.com/font-downloads
+
+https://ohmyz.sh/#install
+
+https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
+
+https://spaceship-prompt.sh/getting-started/
 
 ## Inspiration
 [Mac-OS-Setup-Applications by David Dias
