@@ -31,21 +31,24 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 ## Apps
 
+- Arc (Browser)
 - Authy Desktop
 - Google Drive
 - Docker
+- Figma
 - Firefox
 - Flow
 - Google Chrome
+- Google Drive
 - ImageOptim
-- Logi Options
+- Logi Options+
 - OmniDiskSweeper
-- pgAdmin 4
 - Postman
-- Rectangle
+- Raycast
 - Slack
 - Spotify
 - The Unarchiver
+- TunnelBear
 - Visual Studio Code
 - zoom.us
 
