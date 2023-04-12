@@ -73,3 +73,4 @@ https://spaceship-prompt.sh/getting-started/
 ## Inspiration
 [Mac-OS-Setup-Applications by David Dias
 ](https://github.com/thedaviddias/Mac-OS-Setup-Applications)
+[macOS Ventura: Set up a Mac for Development by Lauro Silva](https://www.laurosilva.com/posts/set-up-a-mac-for-development)
